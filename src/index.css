@@ -12,3 +12,41 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+h3{
+  font-family: 'Unlock', cursive;
+}
+
+p,h1,h2,h4,h5 {
+  font-family: 'Roboto', sans-serif;
+}
+.nav__shadow {
+  -webkit-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+.background-nav{
+  background-color: rgba(32, 4, 36, 0.692) !important
+}
+
+.panel{
+  background: rgba(158, 133, 133, 0.198);
+  height: 350px;
+  width: 100%;
+  margin: auto;
+  margin-top:10px;
+   box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+
+.panel-bottom{
+  box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.4);
+  height: 100px;
+  width: 100%;
+  margin:auto;
+  margin-top: 5px
+}
+.panel-add{
+  box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.4);
+  height: 200px;
+  width: 80%;
+  margin:auto;
+}
