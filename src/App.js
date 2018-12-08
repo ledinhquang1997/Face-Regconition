@@ -84,7 +84,7 @@ class App extends Component {
       <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-light nav__shadow background-nav">
           <div style={{ width: 150, height: 80 }} ref={el => (this.headerAnimationRefs = el)}></div>
-          <h3 className="text-white">FACE RECOGNIZATION</h3>
+          <h3 className="text-white">FACE RECOGNITION</h3>
         </nav>
 
         <div className="container-fluid">
